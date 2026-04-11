@@ -1,0 +1,2 @@
+# No external third-party dependencies required.
+# Uses built-in Python standard libraries (csv, datetime, sys, os, shutil, collections, itertools)
