@@ -9,7 +9,7 @@ During this internship, I will be working on:
 🔹 Real-world Data Science Projects
 🔹 Industry-Level Structured Learning Modules
 🔹 Monthly Project Submissions & Reviews
-🔹 Practical Implementation of ML/Data Science Concepts 
+🔹 Practical Implementation of ML/Data Science Concepts  
 🔹 Improving Code Quality & Professional Development Practices
 
 This opportunity will help me gain valuable hands-on experience and strengthen my practical understanding of Data Science and AI in real-world scenarios.
