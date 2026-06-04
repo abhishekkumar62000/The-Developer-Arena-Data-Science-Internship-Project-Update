@@ -3,7 +3,7 @@
 I’m excited to share that I have officially joined The Developers Arena as a **Data Science Intern** for a 6-month remote in ternship program. 🎉
 
 Receiving both my official offer letter and intern ID card makes this achievement even more special — a proud moment in my journey toward becoming an AI/Data Science Engineer.
- 
+  
 During this internship, I will be working on:   
  
 🔹 Real-world Data Science Projects 
