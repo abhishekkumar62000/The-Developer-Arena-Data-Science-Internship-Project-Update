@@ -6,7 +6,7 @@ Receiving both my official offer letter and intern ID card makes this achievemen
  
 During this internship, I will be working on:   
  
-🔹 Real-world Data Science Projects
+🔹 Real-world Data Science Projects 
 🔹 Industry-Level Structured Learning Modules
 🔹 Monthly Project Submissions & Reviews
 🔹 Practical Implementation of ML/Data Science Concepts
